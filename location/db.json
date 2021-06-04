@@ -1,0 +1,30 @@
+{
+    "userLocations":
+    [
+        {
+            "name": "Astrix",
+            "latitude": 50.6875626,
+            "longitude": 3.9857759999999999
+        },
+        {
+            "name": "Seppe",
+            "latitude": 50.7875626,
+            "longitude": 3.8857759999999999
+        },
+        {
+            "name": "Tom",
+            "latitude": 50.568626,
+            "longitude": 3.8857759999999999
+        },
+        {
+            "name": "Esther",
+            "latitude": 51.0,
+            "longitude": 3.8457759999999999
+        },
+        {
+            "name": "Bla bla",
+            "latitude": 50.742,
+            "longitude": 3.7457759999999999
+        }
+    ]
+}

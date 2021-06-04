@@ -1,0 +1,30 @@
+{
+  "name": "nuxt_onboarding_prototype",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/http": "^0.6.0",
+    "@nuxtjs/auth": "^4.9.1",
+    "@nuxtjs/axios": "^5.12.2",
+    "@nuxtjs/pwa": "^3.1.2",
+    "bootstrap": "^4.5.2",
+    "bootstrap-vue": "^2.17.3",
+    "core-js": "^3.6.5",
+    "fs": "0.0.1-security",
+    "net": "^1.0.2",
+    "nuxt": "^2.14.6",
+    "save": "^2.4.0",
+    "socket.io": "^2.3.0",
+    "uuid": "^8.3.1",
+    "vue-socket.io": "^3.0.10"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.2"
+  }
+}

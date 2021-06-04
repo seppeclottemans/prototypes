@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "email": "blabla@gmail.com",
+      "password": "$2a$10$ii92awamWGwFvybfNl3zmeTZgnk.7nGY6JJrxCWCtoOPqPVKJMATC",
+      "username": "fdqsdfsqf",
+      "timestamp": 1602665357710,
+      "id": 1
+    },
+    {
+      "email": "fbqsdbf@gmail.com",
+      "password": "$2a$10$TqXuyhsolwelXW1A3mIuXecgnhwIgx00adX4w8hkKmlPuk9AOpQx6",
+      "username": "qdsffsqd",
+      "timestamp": 1602666332633,
+      "id": 2
+    },
+    {
+      "email": "test@test.com",
+      "password": "$2a$10$6r8Az80oZn3DY8pFGTF0iOLT7FXUOYXnQaRRrEvRsbKZpPsxzgxI6",
+      "username": "seppe",
+      "timestamp": 1602669038664,
+      "id": 3
+    }
+  ],
+  "todos": [
+    {
+      "userId": 3,
+      "title": "qdfs",
+      "description": "qdsfsdf",
+      "done": false,
+      "date": "2020-12-24",
+      "uploaded": true,
+      "timestamp": 1607444843243,
+      "id": 1
+    },
+    {
+      "userId": 3,
+      "title": "dsqfsqdf",
+      "description": "qsdfqsdfqdsf",
+      "done": false,
+      "date": "2020-12-16",
+      "uploaded": true,
+      "timestamp": 1607444872025,
+      "id": 2
+    }
+  ],
+  "messages": []
+}
